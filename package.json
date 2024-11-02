@@ -1,5 +1,5 @@
 {
-  "name": "react-native-boilerplate",
+  "name": "react-native-expo-redux-firebase-tailwindcss",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
